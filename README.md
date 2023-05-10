@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Versaful</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate developer from USA</h3>
 
-- 🔭 I’m currently working on **Cheetos**
+- 🌎 I’m currently working on **Cheetos for games**
+
+- 👑 I'm Open For Request on **Project's**
+
+- 📱 Reach Me By Discord **xavier.-.#7120**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
